@@ -16,6 +16,7 @@ public class postSteps {
     @When("^I type the message in the box$")
     public void i_type_the_message_in_the_box() throws Throwable {
         System.out.println("i_type_the_message_in_the_box()");
+        System.out.println("rebase demo from intellij");
 
     }
 
